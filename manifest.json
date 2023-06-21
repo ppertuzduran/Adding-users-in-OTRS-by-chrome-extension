@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Add users/customers in OTRS",
+    "version": "1.0",
+    "description": "Add users and customer users in OTRS",
+    "icons": {
+        "128": "ayte_logo.png"
+    },
+    "action":{
+        "default_popup": "popup.html"
+    }
+}
